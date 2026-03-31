@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=odilov001" alt="odilov001" /></a> </p> -->
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif">
-- 👨‍💻 All of my projects are available at https://github.com/yoldashevabdullokh
+- 👨‍💻 All of my projects are available at https://github.com/bot1rjon550
 
 - 📫 How to reach me  **nazirovbotirjoncik@gmail.com**
 
@@ -15,7 +15,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="telegram" height="30" width="40" />
 </a>
 
-<a href="https://instagram.com/Bot1rjonbaxthiyorovich" target="_blank">
+<a href="https://instagram.com/bot1rjonbaxthiyorovich" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="instagram" height="30" width="40" />
 </a>
 
