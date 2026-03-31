@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img align="" alt="coding" width="40" src="https://raw.githubusercontent.com/Bharath-designer/bharath-designer/main/assets/wave.gif"> I'm Yo'ldashev Abdulloh</h1>
+<h1 align="center">Hi <img align="" alt="coding" width="40" src="https://raw.githubusercontent.com/Bharath-designer/bharath-designer/main/assets/wave.gif"> I'm Nazirov Botirjon</h1>
 <h3 align="center">I'm frontend developer from Uzbekistan</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=odilov001&label=Profile%20views&color=0e75b6&style=flat" alt="odilov001" /> </p> -->
@@ -7,27 +7,27 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif">
 - 👨‍💻 All of my projects are available at https://github.com/yoldashevabdullokh
 
-- 📫 How to reach me **yoldashevabdulloh44@gmail.com**
+- 📫 How to reach me  **nazirovbotirjoncik@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/yoldashev_abdulloh" target="_blank">
+<a href="https://t.me/@insta_bot1rjonbaxthiyorovich" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="telegram" height="30" width="40" />
 </a>
 
-<a href="https://instagram.com/abdullokh_yoldashev" target="_blank">
+<a href="https://instagram.com/Bot1rjonbaxthiyorovich" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="instagram" height="30" width="40" />
 </a>
 
-<a href="https://linkedin.com/in/abdulloh-yoldashev/" target="_blank">
+<a href="https://linkedin.com/in/@insta_bot1rjonbaxthiyorovich/" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
 </a>
 
-<a href="https://www.facebook.com/abdullohyoldashev/" target="_blank">
+<a href="https://www.facebook.com/botirjonciknazirov/" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="facebook" height="30" width="40" />
 </a>
 
-<a href="mailto:yoldashevabdulloh44@gmail.com">
+<a href="mailto:nazirovbotirjoncik@gmail.com">
 <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="email" height="30" width="40" />
 </a>
 </p>
