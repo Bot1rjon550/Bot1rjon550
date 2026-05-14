@@ -86,7 +86,7 @@ const abdulloh = {
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoldashevabdullokh&theme=github_dark" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bot1rjonbaxthiyorovich&theme=github_dark" />
 </p>
 
 ---
@@ -94,7 +94,7 @@ const abdulloh = {
 # 📈 KONTIRIBYUTSIYA GRAFIGI
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoldashevabdullokh&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bot1rjonbaxthiyorovich&theme=tokyo-night" />
 </p>
 
 ---
@@ -102,7 +102,7 @@ const abdulloh = {
 # 🏆 YUTUQLAR
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yoldashevabdullokh&theme=algolia&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bot1rjonbaxthiyorovich&theme=algolia&no-frame=true&row=1" />
 </p>
 
 ---
@@ -142,7 +142,7 @@ const abdulloh = {
 # 👁 PROFIL KO‘RILISHLARI
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yoldashevabdullokh&label=Profil%20Ko‘rishlar&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=bot1rjonbaxthiyorovich&label=Profil%20Ko‘rishlar&color=0e75b6&style=flat" />
 </p>
 
 ---
