@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salom, men Abdulloh</h1>
+<h1 align="center">👋 Salom, men Botirjon</h1>
 
 <h3 align="center">🚀 O‘zbekistonlik Fullstack Dasturchi</h3>
 
@@ -42,7 +42,7 @@
 
 ```js
 const abdulloh = {
-  ism: "Abdulloh",
+  ism: "Botirjon",
   rol: "Fullstack Dasturchi",
   davlat: "O‘zbekiston",
   tajriba: "1+ yil",
@@ -81,8 +81,8 @@ const abdulloh = {
 # 📊 GITHUB STATISTIKALAR
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yoldashevabdullokh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yoldashevabdullokh&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bot1rjon550&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bot1rjon550&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -119,19 +119,19 @@ const abdulloh = {
 
 <p align="center">
 
-<a href="https://t.me/yoldashev_abdulloh">
+<a href="https://t.me/@insta_bot1rjonbaxthiyorovich">
   <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram" />
 </a>
 
-<a href="https://instagram.com/yoldashev_abdullokh">
+<a href="https://instagram.com/bot1rjonbaxthiyorovich">
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
 </a>
 
-<a href="mailto:yoldashevabdulloh44@gmail.com">
+<a href="mailto:nazirovbotirjoncik@gmail.com">
   <img src="https://img.shields.io/badge/Email-Yuborish-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="tel:+998773835258">
+<a href="tel:+998916047114">
   <img src="https://img.shields.io/badge/Qo‘ng‘iroq-Qilish-00C853?style=for-the-badge&logo=phone" />
 </a>
 
